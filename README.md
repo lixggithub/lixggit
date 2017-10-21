@@ -1,0 +1,2 @@
+# lixggit
+learning code
